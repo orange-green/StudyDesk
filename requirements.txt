@@ -1,0 +1,6 @@
+requests
+pystray
+Pillow
+pynput
+playsound==1.2.2 # if python > 3.9 ,use playsound==1.2.2
+pywin32
